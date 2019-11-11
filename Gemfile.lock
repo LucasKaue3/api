@@ -73,7 +73,6 @@ GEM
       diff-lcs (>= 1.2.0, < 2.0)
       rspec-support (~> 3.9.0)
     rspec-support (3.9.0)
-    ruby-oci8 (2.2.7-x64-mingw32)
     to_regexp (0.2.1)
     unf (0.1.4)
       unf_ext
@@ -93,7 +92,6 @@ DEPENDENCIES
   rake
   rest-client
   rspec
-  ruby-oci8
 
 BUNDLED WITH
    2.0.2
