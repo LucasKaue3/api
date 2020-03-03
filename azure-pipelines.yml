@@ -10,9 +10,6 @@ pool:
   name: 'testeLocal'
 
 steps:
-- task: UseRubyVersion@0
-  inputs:
-    versionSpec: '>= 2.5'
 
 - script: |
     gem install bundler
