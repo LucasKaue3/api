@@ -7,7 +7,7 @@ trigger:
 - master
 
 pool:
-  name: 'testeLocal'
+  name: 'testeLocal2'
 
 steps:
 
