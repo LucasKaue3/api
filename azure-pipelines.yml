@@ -7,7 +7,7 @@ trigger:
 - master
 
 pool:
-  name: 'Mobile'
+  name: 'testeLocal'
 
 steps:
 
